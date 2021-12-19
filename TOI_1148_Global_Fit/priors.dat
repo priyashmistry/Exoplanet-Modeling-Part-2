@@ -1,0 +1,15 @@
+P_p1                 normal               5.5514,9e-05        
+t0_p1                normal               2458684.8164,0.0002 
+r1_p1                uniform              0,1                 
+r2_p1                uniform              0,1                 
+q1_TESS              uniform              0,1                 
+q2_TESS              uniform              0,1                 
+a_p1                 uniform              9.95,0.17           
+mdilution_TESS       fixed                1.0                 
+mflux_TESS           normal               0.0,0.1             
+sigma_w_TESS         loguniform           0.1,1000.0          
+K_p1                 uniform              0,500               
+mu_TRES              uniform              0,500               
+ecc_p1               uniform              0.0,0.5             
+omega_p1             uniform              0,90                
+sigma_w_TRES         loguniform           1,10                
